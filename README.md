@@ -77,8 +77,8 @@ is established.
 Now, a lot of the process of evaluating a potential peering partner towards
 your established policy can be done in an automated fashion and this is
 naturally what OP is all about. It will primarily assist in responding to
-incoming peeing requests but could also, with some input, assist in finding new
-peering partners and requesting peering with those partners.
+incoming peering requests but could also, with some input, assist in finding
+new peering partners and requesting peering with those networks.
 
 Different networks apply different policies to peering, such as minimum amount
 of exchanged traffic, a minimum number of interconnects or similar.
