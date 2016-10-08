@@ -1,8 +1,8 @@
 Optimus Peer
 ============
 
-** This is currently just an idea. Please get in touch if you find it
-interesting and we'll turn this thing into running code! **
+**This is currently just an idea. Please get in touch if you find it
+interesting and we'll turn this thing into running code!**
 
 Optimus Peer (OP) sets out to enable automatic management of peering
 relationships between networks on the Internet. It ranges from initial
