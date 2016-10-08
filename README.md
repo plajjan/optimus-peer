@@ -8,16 +8,20 @@ Optimus Peer (OP) sets out to enable automatic management of peering
 relationships between networks on the Internet. It ranges from initial
 establishment through the regular lifecycle of adding additional peering
 interconnections and potential depeering of networks no longer meeting your
-policy.
+peering policy.
 
 Why?
 ----
 Many networks on the Internet manage hundreds or thousands of peering
 connections and this requires time. While a great deal of interconnects happen
-through human interaction at various events there is just as many, if not more,
-that happen through a few emails. It's often a faceless process with a few
-simple steps, yet requiring a human touch on either end. Such a process is a
-prime target for automation.
+through human interaction at various events there are just as many, if not
+more, that happen through a few emails. It's often a faceless process with a
+few simple steps, yet requiring a human touch on either end. Such a process is
+a prime target for automation.
+
+Even relations that are established through human interaction (some like to go
+to EPF) also require the exchange of some technical information - a step which
+can also be automated.
 
 Structured peering policies
 ---------------------------
